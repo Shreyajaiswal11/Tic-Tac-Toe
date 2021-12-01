@@ -2,7 +2,7 @@
 
 A basic Tic Tac Toe game built using HTML/JavaScript/CSS. No dependencies.
 
-View The Demo(https://shreyajaiswal11.github.io/Tic-Tac-Toe/)
+[View The Demo](https://shreyajaiswal11.github.io/Tic-Tac-Toe/)
 
 ##How to get started
 
